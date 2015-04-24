@@ -6,8 +6,8 @@ import {Component, Template, bootstrap} from 'angular2/angular2';
   selector: 'my-app'
 })
 // Contenido HTML del componente
-@Template({
-  inline: '<h1>Hola {{ name }}!</h1>'
+@View({
+  template: '<h1>Hola {{ name }}!</h1>'
 })
 // Controlador del componente
 class MyAppComponent {
