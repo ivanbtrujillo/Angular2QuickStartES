@@ -1,4 +1,6 @@
 # Angular2QuickStartES
-Angular 2 Quickstart en Español
+Aplicación oficial de inicio a Angular 2 explicada en español
 
-Version en español de angular Quickstart
+Tutorial paso a paso traduciendo la documentación oficial aquí:
+
+https://mega.co.nz/#!SgBF1IKD!L5gbQnbM4lq1oOoqZgyD4p-10UXKgN_lupYf--iMX-I
