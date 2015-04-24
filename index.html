@@ -11,9 +11,9 @@
 
     <!-- Cargamos el componente en el HTML -->
     <script>
-	  // En ionic esto sera automático. Establecemos donde estan los archivos del proyecto
+	  //Establecemos donde estan los archivos del proyecto reescribiendo el path
 	  System.paths = {
-	  	//AngularJS (De aqui app.es6 importa los modulos)
+	    //AngularJS (De aqui app.es6 importa los modulos)
 	    'angular2/*':'/quickstart/angular2/*.js', 
 	    //Aserciones en tiempo de ejecucion
 	    'rtts_assert/*': '/quickstart/rtts_assert/*.js', 
@@ -21,7 +21,7 @@
 	    'app': 'app.es6'
 	  };
 	  
-	  // Kick off the application
+	  // Cargamos nuestro componente
 	  System.import('app');
 	</script>
     
